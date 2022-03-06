@@ -1,0 +1,55 @@
+.bg-gray{
+    background-color: #EEEEEE;
+}
+.bg-firstbox{
+    background-color: #7EE5DA;
+}
+.bg-secondbox{
+    background-color: #70CCC2;
+}
+.bg-thirdbox{
+    background-color: #62B3AA;
+}
+.googleimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mainbox{
+    margin: 0 25% 0 25%;
+    width: 504px;
+    height: 81px;
+}
+.clear{
+    clear: both;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+.tcenter{
+    margin-left: auto; 
+    margin-right: auto;
+}
+td{
+    text-align: center;
+}
+a{
+    color: blue;
+}
+.btn{
+    border-radius: 6px;
+    border-color: white;
+}
+br {
+    line-height: 150%;
+ }
+ .telif{
+     text-align: center;
+     font-weight: 100;
+ }
